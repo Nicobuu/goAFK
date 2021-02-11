@@ -14,6 +14,7 @@
 		"#format"	"{1:i}"
 		"en"		"[{GREEN}goAFK{NORMAL}] Warning: If you do not move in {RED}{1}{NORMAL} seconds, you will be moved to spectate."
 		"pl"		"[{GREEN}goAFK{NORMAL}] Uwaga: Jeżeli nie poruszysz się w ciągu {RED}{1}{NORMAL} sekund(y), zostaniesz przeniesiony do obserwatorów."
+		"es"        "[{GREEN}goAFK{NORMAL}] Precaución: Si usted no se mueve en {RED}{1}{NORMAL} segundos, será movido a espectador.
 	}
 
 	"Kick_Warning"
@@ -21,6 +22,7 @@
 		"#format"	"{1:i}"
 		"en"		"[{GREEN}goAFK{NORMAL}] Warning: If you do not move in {RED}{1}{NORMAL} seconds, you will be kicked."
 		"pl"		"[{GREEN}goAFK{NORMAL}] Uwaga: Jeżeli się nie poruszysz w ciągu {RED}{1}{NORMAL} sekund(y), zostaniesz wykopany z serwera."
+		"es"        "[{GREEN}goAFK{NORMAL}] Precaución: Si usted no se mueve en {RED}{1}{NORMAL} segundos, será kickeado.
 	}
 
 	"Move_Announce"
@@ -28,6 +30,7 @@
 		"#format"	"{1:s}"
 		"en"		"[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} was moved to spectate for being AFK too long."
 		"pl"		"[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} został przeniesiony do obserwatorów, ponieważ za długo pozostawał bez ruchu."
+		"es"        "[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} fue movido a espectador por estar AFK durante mucho tiempo.
 	}
 
 	"Kick_Announce"
@@ -35,12 +38,14 @@
 		"#format"	"{1:s}"
 		"en"		"[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} was kicked for being AFK too long."
 		"pl"		"[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} został wykopany, ponieważ za długo pozostawał bez ruchu."
+		"es"        "[{GREEN}goAFK{NORMAL}] {PINK}{1}{NORMAL} fue kickeado por estar AFK durante mucho tiempo.
 	}
 
 	"Kick_Message"
 	{
 		"en"		"You were kicked for being AFK too long."
 		"pl"		"Zostałeś wykopany ponieważ za długo pozostawałeś bez ruchu."
+		"es"        "Fuiste kickeado por estar AFK durante mucho tiempo"
 	}
 }
 
